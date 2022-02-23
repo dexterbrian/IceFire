@@ -5,9 +5,10 @@ Click the link below to view the live deployed app:
 [Deployed IceFire React App](https://icefireui.herokuapp.com/) 
 
 # Running IceFire in Development
-* Clone this project
-* Run `npm install` to install required dependencies
-* Run `npm start` to run the app in the development 
+* Clone this project.
+* Download and install NodeJs.
+* Run `npm install` to install required dependencies.
+* Run `npm start` to run the app in the development.
 * Open [http://localhost:3000](http://localhost:3000) to view it in your browser. 
 
 # Getting Started with Create React App
